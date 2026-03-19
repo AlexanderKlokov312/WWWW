@@ -1,5 +1,5 @@
 #!/bin/bash
-cd https://sourcecraft.dev/medinskiy-yandexlyceum-ru/ffllaapp # Your app working directory!!!
+cd wwww # Your app working directory!!!
 export PORT=5000
 unset PIP_USER
 
