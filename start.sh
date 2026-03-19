@@ -1,5 +1,5 @@
 #!/bin/bash
-cd wwww # Your app working directory!!!
+cd WWWW # Your app working directory!!!
 export PORT=5000
 unset PIP_USER
 
